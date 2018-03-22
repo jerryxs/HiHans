@@ -1,2 +1,2 @@
-# HiHans
-All about Hans Website
+# hihans
+Jerry's first website 
